@@ -7,6 +7,7 @@ import com.wm.util.Values;
 import com.wm.app.b2b.server.Service;
 import com.wm.app.b2b.server.ServiceException;
 // --- <<IS-START-IMPORTS>> ---
+import com.google.gson.Gson;
 // --- <<IS-END-IMPORTS>> ---
 
 public final class addVerify
@@ -30,6 +31,7 @@ public final class addVerify
 	{
 		// --- <<IS-START(addInts)>> ---
 		// @sigtype java 3.5
+		Gson gson = new Gson();
 		// --- <<IS-END>> ---
 
                 

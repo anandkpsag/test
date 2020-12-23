@@ -3,5 +3,5 @@
 <Values version="2.0">
   <value name="name">addInts</value>
   <value name="encodeutf8">true</value>
-  <null name="body"/>
+  <value name="body">R3NvbiBnc29uID0gbmV3IEdzb24oKTs=</value>
 </Values>
