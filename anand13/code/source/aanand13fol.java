@@ -7,6 +7,7 @@ import com.wm.util.Values;
 import com.wm.app.b2b.server.Service;
 import com.wm.app.b2b.server.ServiceException;
 // --- <<IS-START-IMPORTS>> ---
+import com.google.gson.Gson;
 // --- <<IS-END-IMPORTS>> ---
 
 public final class aanand13fol
@@ -30,6 +31,8 @@ public final class aanand13fol
 	{
 		// --- <<IS-START(js13)>> ---
 		// @sigtype java 3.5
+		Gson gson = new Gson();
+			
 		// --- <<IS-END>> ---
 
                 
