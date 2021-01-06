@@ -2,7 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="code/source"/>
 	<classpathentry kind="lib" path="code/jars"/>
-	<classpathentry kind="lib" path="lib"/>
 	<classpathentry kind="lib" path="code/jars/gson-2.8.6.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="var" path="IS_CLIENT"/>
